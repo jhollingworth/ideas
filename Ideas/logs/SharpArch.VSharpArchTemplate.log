@@ -1,0 +1,45 @@
+13:53:03	MoveCommonAssemblyInfoToRoot: Moving CommonAssemblyInfo.cs from D:\dev\personal\Ideas\Ideas\SolutionItemsContainer\CommonAssemblyInfo.cs to root at D:\dev\personal\Ideas\Ideas\CommonAssemblyInfo.cs
+13:53:03	MoveSolutionItemsToLib: Moving solution items from D:\dev\personal\Ideas\Ideas\SolutionItemsContainer\Solution Items to lib at D:\dev\personal\Ideas\Ideas\lib
+13:53:05	MoveSolutionItemsToToolsLib: Moving tools solution items from D:\dev\personal\Ideas\Ideas\ToolsSolutionItemsContainer\Solution Items to tools lib at D:\dev\personal\Ideas\Ideas\tools\lib
+13:53:08	MoveProjectTo: Removing Ideas.Core from solution
+13:53:09	PerformManualProjectReplacementsTo: Going to PerformManualProjectReplacementsTo on D:\dev\personal\Ideas\Ideas\Ideas.Core\Ideas.Core.csproj
+13:53:09	MoveProjectTo: Moving Ideas.Core from D:\dev\personal\Ideas\Ideas\Ideas.Core to target location at D:\dev\personal\Ideas\Ideas\app\Ideas.Core
+13:53:09	MoveProjectTo: Adding Ideas.Core to solution
+13:53:13	CaptureProjectGuidOf: Does D:\dev\personal\Ideas\Ideas\app\Ideas.Core\Ideas.Core.csproj exist? True
+13:53:13	CaptureProjectGuidOf: About to open D:\dev\personal\Ideas\Ideas\app\Ideas.Core\Ideas.Core.csproj
+13:53:13	CaptureProjectGuidOf: Captured the GUID {5684FF68-9F87-48AF-941C-65A7B26F395C} for Ideas.Core
+13:53:13	MoveProjectTo: Removing Ideas.ApplicationServices from solution
+13:53:14	PerformManualProjectReplacementsTo: Going to PerformManualProjectReplacementsTo on D:\dev\personal\Ideas\Ideas\Ideas.ApplicationServices\Ideas.ApplicationServices.csproj
+13:53:14	MoveProjectTo: Moving Ideas.ApplicationServices from D:\dev\personal\Ideas\Ideas\Ideas.ApplicationServices to target location at D:\dev\personal\Ideas\Ideas\app\Ideas.ApplicationServices
+13:53:14	MoveProjectTo: Adding Ideas.ApplicationServices to solution
+13:53:15	CaptureProjectGuidOf: Does D:\dev\personal\Ideas\Ideas\app\Ideas.ApplicationServices\Ideas.ApplicationServices.csproj exist? True
+13:53:15	CaptureProjectGuidOf: About to open D:\dev\personal\Ideas\Ideas\app\Ideas.ApplicationServices\Ideas.ApplicationServices.csproj
+13:53:15	CaptureProjectGuidOf: Captured the GUID {BE323772-EB0A-426F-AEA8-F47A3E52EB1D} for Ideas.ApplicationServices
+13:53:17	MoveProjectTo: Removing Ideas.Data from solution
+13:53:18	PerformManualProjectReplacementsTo: Going to PerformManualProjectReplacementsTo on D:\dev\personal\Ideas\Ideas\Ideas.Data\Ideas.Data.csproj
+13:53:18	MoveProjectTo: Moving Ideas.Data from D:\dev\personal\Ideas\Ideas\Ideas.Data to target location at D:\dev\personal\Ideas\Ideas\app\Ideas.Data
+13:53:18	MoveProjectTo: Adding Ideas.Data to solution
+13:53:19	CaptureProjectGuidOf: Does D:\dev\personal\Ideas\Ideas\app\Ideas.Data\Ideas.Data.csproj exist? True
+13:53:19	CaptureProjectGuidOf: About to open D:\dev\personal\Ideas\Ideas\app\Ideas.Data\Ideas.Data.csproj
+13:53:19	CaptureProjectGuidOf: Captured the GUID {882705CF-50A9-468F-98AF-2C205BD2BF98} for Ideas.Data
+13:53:23	MoveProjectTo: Removing Ideas.Web.Controllers from solution
+13:53:23	PerformManualProjectReplacementsTo: Going to PerformManualProjectReplacementsTo on D:\dev\personal\Ideas\Ideas\Ideas.Web.Controllers\Ideas.Web.Controllers.csproj
+13:53:24	MoveProjectTo: Moving Ideas.Web.Controllers from D:\dev\personal\Ideas\Ideas\Ideas.Web.Controllers to target location at D:\dev\personal\Ideas\Ideas\app\Ideas.Web.Controllers
+13:53:24	MoveProjectTo: Adding Ideas.Web.Controllers to solution
+13:53:26	CaptureProjectGuidOf: Does D:\dev\personal\Ideas\Ideas\app\Ideas.Web.Controllers\Ideas.Web.Controllers.csproj exist? True
+13:53:26	CaptureProjectGuidOf: About to open D:\dev\personal\Ideas\Ideas\app\Ideas.Web.Controllers\Ideas.Web.Controllers.csproj
+13:53:26	CaptureProjectGuidOf: Captured the GUID {42FA5715-FC21-4618-BAD1-F2B2C983CB1F} for Ideas.Web.Controllers
+13:53:33	MoveProjectTo: Removing Ideas.Tests from solution
+13:53:34	PerformManualProjectReplacementsTo: Going to PerformManualProjectReplacementsTo on D:\dev\personal\Ideas\Ideas\Ideas.Tests\Ideas.Tests.csproj
+13:53:34	MoveProjectTo: Moving Ideas.Tests from D:\dev\personal\Ideas\Ideas\Ideas.Tests to target location at D:\dev\personal\Ideas\Ideas\tests\Ideas.Tests
+13:53:34	MoveProjectTo: Adding Ideas.Tests to solution
+13:53:45	MoveProjectTo: Removing Ideas.Web from solution
+13:53:47	PerformManualProjectReplacementsTo: Going to PerformManualProjectReplacementsTo on D:\dev\personal\Ideas\Ideas\Ideas.Web\Ideas.Web.csproj
+13:53:47	MoveProjectTo: Moving Ideas.Web from D:\dev\personal\Ideas\Ideas\Ideas.Web to target location at D:\dev\personal\Ideas\Ideas\app\Ideas.Web
+13:53:47	MoveProjectTo: Adding Ideas.Web to solution
+13:53:50	MoveProjectTo: Removing CrudScaffolding from solution
+13:53:51	PerformManualProjectReplacementsTo: Going to PerformManualProjectReplacementsTo on D:\dev\personal\Ideas\Ideas\CrudScaffolding\CrudScaffolding.csproj
+13:53:51	MoveProjectTo: Moving CrudScaffolding from D:\dev\personal\Ideas\Ideas\CrudScaffolding to target location at D:\dev\personal\Ideas\Ideas\tools\CrudScaffolding
+13:53:51	MoveProjectTo: Adding CrudScaffolding to solution folder D:\dev\personal\Ideas\Ideas\tools\CrudScaffolding
+13:53:52	ExcludeProjectFromBuildProcess: Setting build to false for project Ideas\tools\CrudScaffolding\CrudScaffolding.csproj within the Debug configuration
+13:53:52	ExcludeProjectFromBuildProcess: Setting build to false for project Ideas\tools\CrudScaffolding\CrudScaffolding.csproj within the Release configuration
