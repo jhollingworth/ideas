@@ -19,35 +19,17 @@
 <body>
     <div class="page">
 
-        <div id="mainContent">
+        <a class="rpxnow" onclick="return false;" href="https://jhollingworth.rpxnow.com/openid/v2/signin?token_url=http://localhost:8888/authentication/Verify">Sign In</a>        
+        <asp:ContentPlaceHolder ID="MainContentPlaceHolder" runat="server" />
 
-            <div class="columnsContainer">
-
-                <div class="leftColumn">
-                    <p>
-                        <%= Html.Image("~/Content/Images/sharp_arch.jpg") %>
-                    </p>
-                    <h2>Ideas Pages</h2>
-                    <ul>
-                        <!-- We cannot use Html.ActionLink within a master page to link to a controller while using areas -->
-                        <li><%= Html.ActionLinkForAreas<HomeController>(c => c.Index(), "Home") %></li>
-                    </ul>
-                </div>
-                <!--/leftColumn-->
-
-                <div class="rightColumn">
-                    <asp:ContentPlaceHolder ID="MainContentPlaceHolder" runat="server" />
-                </div><!--/rightColumn-->
-
-                <div class="clear">
-                </div>
-
-            </div><!--/columnsContainer-->
-
-            <div id="sharpArchLogo"><%= Html.Image("~/Content/Images/sharp_arch_small.gif")%></div>
-
-        </div><!--/mainContent-->
-
-    </div><!--/page-->
+    </div>
+    <script type="text/javascript">
+        var rpxJsHost = (("https:" == document.location.protocol) ? "https://" : "http://static.");
+        document.write(unescape("%3Cscript src='" + rpxJsHost + "rpxnow.com/js/lib/rpx.js' type='text/javascript'%3E%3C/script%3E"));
+    </script>
+    <script type="text/javascript">
+      RPXNOW.overlay = true;
+      RPXNOW.language_preference = 'en';
+    </script>
 </body>
 </html>

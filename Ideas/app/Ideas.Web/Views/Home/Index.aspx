@@ -4,7 +4,7 @@
 
 <asp:Content ID="indexContent" ContentPlaceHolderID="MainContentPlaceHolder" runat="server">
     
-    <%=Html.ActionLink <IdeasController>(c => c.New(), "Add idea") %>
+    <%=Html.ActionLink<IdeasController>(c => c.New(), "Add idea") %>
     
     
 </asp:Content>

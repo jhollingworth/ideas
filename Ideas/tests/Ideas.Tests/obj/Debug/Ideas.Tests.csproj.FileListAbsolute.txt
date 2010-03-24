@@ -60,3 +60,6 @@ D:\dev\personal\Ideas\Ideas\tests\Ideas.Tests\bin\Debug\SharpArch.Web.pdb
 D:\dev\personal\Ideas\Ideas\tests\Ideas.Tests\obj\Debug\ResolveAssemblyReference.cache
 D:\dev\personal\Ideas\Ideas\tests\Ideas.Tests\obj\Debug\Ideas.Tests.dll
 D:\dev\personal\Ideas\Ideas\tests\Ideas.Tests\obj\Debug\Ideas.Tests.pdb
+D:\dev\personal\Ideas\Ideas\tests\Ideas.Tests\bin\Debug\RPXLib.dll
+D:\dev\personal\Ideas\Ideas\tests\Ideas.Tests\bin\Debug\NHibernate.Linq.dll
+D:\dev\personal\Ideas\Ideas\tests\Ideas.Tests\bin\Debug\NHibernate.Linq.xml

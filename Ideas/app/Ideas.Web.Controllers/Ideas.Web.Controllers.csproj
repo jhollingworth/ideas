@@ -47,6 +47,10 @@
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\..\lib\NHibernate.Validator.dll</HintPath>
     </Reference>
+    <Reference Include="RPXLib, Version=0.0.2.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\lib\RPXLib.dll</HintPath>
+    </Reference>
     <Reference Include="SharpArch.Core, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\..\lib\SharpArch.Core.dll</HintPath>
@@ -87,6 +91,7 @@
     <Compile Include="IdeasController.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="RouteRegistrar.cs" />
+    <Compile Include="AuthenticationController.cs" />
     <Compile Include="ViewModels\Ideas\AddIdeaViewModel.cs" />
     <Compile Include="ViewModels\Ideas\IdeasViewModel.cs" />
   </ItemGroup>

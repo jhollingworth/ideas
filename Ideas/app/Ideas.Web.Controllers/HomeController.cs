@@ -1,4 +1,5 @@
 ﻿using System.Web.Mvc;
+using Ideas.Core.Helpers;
 
 namespace Ideas.Web.Controllers
 {
@@ -7,6 +8,8 @@ namespace Ideas.Web.Controllers
     {
         public ActionResult Index()
         {
+            var user = App.CurrentUser;
+
             return View();
         }
     }

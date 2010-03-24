@@ -57,3 +57,6 @@ D:\dev\personal\Ideas\Ideas\app\Ideas.Web\bin\SharpArch.Web.pdb
 D:\dev\personal\Ideas\Ideas\app\Ideas.Web\obj\Debug\ResolveAssemblyReference.cache
 D:\dev\personal\Ideas\Ideas\app\Ideas.Web\obj\Debug\Ideas.Web.dll
 D:\dev\personal\Ideas\Ideas\app\Ideas.Web\obj\Debug\Ideas.Web.pdb
+D:\dev\personal\Ideas\Ideas\app\Ideas.Web\bin\RPXLib.dll
+D:\dev\personal\Ideas\Ideas\app\Ideas.Web\bin\NHibernate.Linq.dll
+D:\dev\personal\Ideas\Ideas\app\Ideas.Web\bin\NHibernate.Linq.xml

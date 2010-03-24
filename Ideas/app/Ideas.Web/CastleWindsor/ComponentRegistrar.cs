@@ -1,4 +1,5 @@
 ﻿using Castle.Windsor;
+using RPXLib.Interfaces;
 using SharpArch.Core.PersistenceSupport.NHibernate;
 using SharpArch.Data.NHibernate;
 using SharpArch.Core.PersistenceSupport;
@@ -6,6 +7,7 @@ using SharpArch.Web.Castle;
 using Castle.MicroKernel.Registration;
 using SharpArch.Core.CommonValidator;
 using SharpArch.Core.NHibernateValidator.CommonValidatorAdapter;
+using RPXLib;
 
 namespace Ideas.Web.CastleWindsor
 {
@@ -19,6 +21,9 @@ namespace Ideas.Web.CastleWindsor
 
             container.AddComponent("validator",
                 typeof(IValidator), typeof(Validator));
+
+            container.Register(Component.For<IRPXService>().ImplementedBy<RPXService>());
+            container.Register(Component.For<IRPXApiSettings>().ImplementedBy<RPXApiSettings>());
         }
 
         private static void AddApplicationServicesTo(IWindsorContainer container)

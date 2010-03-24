@@ -12,3 +12,4 @@ D:\dev\personal\Ideas\Ideas\app\Ideas.ApplicationServices\obj\Debug\Ideas.Applic
 D:\dev\personal\Ideas\Ideas\app\Ideas.ApplicationServices\obj\Debug\Ideas.ApplicationServices.pdb
 D:\dev\personal\Ideas\Ideas\app\Ideas.ApplicationServices\bin\Debug\Iesi.Collections.dll
 D:\dev\personal\Ideas\Ideas\app\Ideas.ApplicationServices\bin\Debug\Iesi.Collections.xml
+D:\dev\personal\Ideas\Ideas\app\Ideas.ApplicationServices\bin\Debug\RPXLib.dll

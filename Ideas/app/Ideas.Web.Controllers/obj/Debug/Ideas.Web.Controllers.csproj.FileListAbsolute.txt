@@ -29,3 +29,4 @@ D:\dev\personal\Ideas\Ideas\app\Ideas.Web.Controllers\bin\Debug\FluentNHibernate
 D:\dev\personal\Ideas\Ideas\app\Ideas.Web.Controllers\obj\Debug\ResolveAssemblyReference.cache
 D:\dev\personal\Ideas\Ideas\app\Ideas.Web.Controllers\obj\Debug\Ideas.Web.Controllers.dll
 D:\dev\personal\Ideas\Ideas\app\Ideas.Web.Controllers\obj\Debug\Ideas.Web.Controllers.pdb
+D:\dev\personal\Ideas\Ideas\app\Ideas.Web.Controllers\bin\Debug\RPXLib.dll

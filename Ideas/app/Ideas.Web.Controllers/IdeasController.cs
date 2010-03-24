@@ -10,7 +10,6 @@ namespace Ideas.Web.Controllers
     {
         private readonly IRepository<Idea> _ideas;
 
-
         public IdeasController(IRepository<Idea> ideas)
         {
             _ideas = ideas;
